@@ -17,3 +17,12 @@ if myAge >= 27 {
 var B = "it"
 
 let it = B
+
+let myGirlFriend = "Lindsay"
+
+if myAge == 28 && myGirlFriend == "Lindsay"
+{
+    println("My name is Josh Frazier")
+}else {
+    println("My name is not Josh Frazier")
+}
